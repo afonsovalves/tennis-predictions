@@ -3279,3 +3279,7 @@ date_fetched,fetched_at,event_id,ts_start,tourney,surface,p1,p2,wu,wv,bookmaker_
 2026-09-27,2026-09-27T05:02:31Z,Qi8uCASp,1790508600,"ATP - SINGLES: Hangzhou (China), hard",hard,Medvedev D.,Wong C.,medvedev-daniil,wong-chak-lam-coleman,1221,Kalshi,1.25,4.55,1.27,4.55
 2026-09-27,2026-09-27T05:02:31Z,0zbrohWj,1790490600,"WTA - SINGLES: Seoul (South Korea), hard",hard,Joint M.,Birrell K.,joint-maya,birrell-kimberly,1221,Kalshi,1.59,2.56,1.67,2.04
 2026-09-27,2026-09-27T05:02:31Z,pdeE2ZJE,1790499600,"WTA - SINGLES: Singapore (Singapore), hard (indoor)",hard (indoor),Fernandez L.,Gibson T.,fernandez-leylah-annie,gibson-talia,1221,Kalshi,1.52,2.78,1.47,3.03
+2026-09-28,2026-09-28T05:03:21Z,44CREdmB,1790586000,"ATP - SINGLES: Chengdu (China), hard",hard,Basilashvili N.,Davidovich Fokina A.,basilashvili-nikoloz,davidovich-fokina-alejandro,1221,Kalshi,3.13,1.45,2.63,1.52
+2026-09-28,2026-09-28T05:03:21Z,C6o9VCJH,1790593200,"ATP - SINGLES: Chengdu (China), hard",hard,Hurkacz H.,Shapovalov D.,hurkacz-hubert,shapovalov-denis,1221,Kalshi,1.69,2.33,1.06,1.06
+2026-09-28,2026-09-28T05:03:21Z,M7514hNb,1790587800,"ATP - SINGLES: Hangzhou (China), hard",hard,Jacquet K.,Rublev A.,jacquet-kyrian,rublev-andrey,1221,Kalshi,3.85,1.33,2.63,1.43
+2026-09-28,2026-09-28T05:03:21Z,QmOLdkIG,1790595000,"ATP - SINGLES: Hangzhou (China), hard",hard,Medvedev D.,Safiullin R.,medvedev-daniil,safiullin-roman,1221,Kalshi,1.39,3.45,1.39,3.45
