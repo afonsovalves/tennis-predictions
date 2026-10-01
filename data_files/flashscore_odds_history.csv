@@ -3320,3 +3320,34 @@ date_fetched,fetched_at,event_id,ts_start,tourney,surface,p1,p2,wu,wv,bookmaker_
 2026-09-30,2026-09-30T05:02:36Z,l0pJXrB7,1790753400,"WTA - SINGLES: Beijing (China), hard",hard,Preston T.,Korpatsch T.,preston-taylah,korpatsch-tamara,1221,Kalshi,1.49,2.86,1.49,2.94
 2026-09-30,2026-09-30T05:02:36Z,f5oiTmJa,1790766000,"WTA - SINGLES: Beijing (China), hard",hard,Jacquemot E.,Frech M.,jacquemot-elsa,frech-magdalena,1221,Kalshi,3.13,1.45,2.86,1.49
 2026-09-30,2026-09-30T05:02:36Z,hlVq8PnK,1790771400,"WTA - SINGLES: Beijing (China), hard",hard,Bondar A.,Zarazua R.,bondar-anna,zarazua-renata,1221,Kalshi,1.43,3.03,1.43,3.13
+2026-10-01,2026-10-01T05:02:53Z,ldWaJXYa,1790824200,"ATP - SINGLES: Beijing (China), hard",hard,De Minaur A.,Navone M.,de-minaur-alex,navone-mariano,1221,Kalshi,1.27,4.55,1.19,5.88
+2026-10-01,2026-10-01T05:02:53Z,lWzub8k1,1790829900,"ATP - SINGLES: Beijing (China), hard",hard,Van De Zandschulp B.,Cerundolo F.,van-de-zandschulp-botic,cerundolo-francisco,1221,Kalshi,2.27,1.75,2.22,1.69
+2026-10-01,2026-10-01T05:02:53Z,tWSiLg4m,1790832000,"ATP - SINGLES: Beijing (China), hard",hard,Buse I.,Halys Q.,buse-ignacio,halys-quentin,1221,Kalshi,2.17,1.79,2.33,1.67
+2026-10-01,2026-10-01T05:02:53Z,x2YK6fkf,1790832000,"ATP - SINGLES: Beijing (China), hard",hard,Safiullin R.,Cobolli F.,safiullin-roman,cobolli-flavio,1221,Kalshi,2.0,1.92,2.22,1.75
+2026-10-01,2026-10-01T05:02:53Z,0bIo5sEk,1790834700,"ATP - SINGLES: Beijing (China), hard",hard,Shang J.,Baez S.,shang-juncheng,baez-sebastian,1221,Kalshi,1.72,2.33,1.75,2.22
+2026-10-01,2026-10-01T05:02:53Z,0I8uROz9,1790838000,"ATP - SINGLES: Beijing (China), hard",hard,Zverev A.,Norrie C.,zverev-alexander,norrie-cameron,1221,Kalshi,1.12,8.33,1.12,8.33
+2026-10-01,2026-10-01T05:02:53Z,pSyT4YJ6,1790842200,"ATP - SINGLES: Beijing (China), hard",hard,Griekspoor T.,Rublev A.,griekspoor-tallon,rublev-andrey,1221,Kalshi,2.5,1.61,2.86,1.52
+2026-10-01,2026-10-01T05:02:53Z,hhuy3ClJ,1790852400,"ATP - SINGLES: Beijing (China), hard",hard,Tien L.,Hurkacz H.,tien-learner,hurkacz-hubert,1221,Kalshi,1.59,2.63,1.64,2.38
+2026-10-01,2026-10-01T05:02:53Z,4lzD8GKs,1790857800,"ATP - SINGLES: Beijing (China), hard",hard,Bublik A.,Mensik J.,bublik-alexander,mensik-jakub,1221,Kalshi,2.56,1.59,2.5,1.64
+2026-10-01,2026-10-01T05:02:53Z,rZXni0xH,1790820600,"ATP - SINGLES: Tokyo (Japan), hard",hard,Fritz T.,Munar J.,fritz-taylor,munar-jaume,1221,Kalshi,1.35,3.7,1.16,1.1
+2026-10-01,2026-10-01T05:02:53Z,UkWfkv7T,1790826000,"ATP - SINGLES: Tokyo (Japan), hard",hard,Etcheverry T. M.,Tsitsipas S.,etcheverry-tomas-martin,tsitsipas-stefanos,1221,Kalshi,3.57,1.37,4.35,1.25
+2026-10-01,2026-10-01T05:02:53Z,bNcc1eJi,1790828100,"ATP - SINGLES: Tokyo (Japan), hard",hard,Rune H.,Jacquet K.,rune-holger,jacquet-kyrian,1221,Kalshi,1.59,2.63,1.69,2.44
+2026-10-01,2026-10-01T05:02:53Z,j3oaqNc6,1790832300,"ATP - SINGLES: Tokyo (Japan), hard",hard,Nishikori K.,Tiafoe F.,nishikori-kei,tiafoe-frances,1221,Kalshi,5.88,1.2,4.76,1.23
+2026-10-01,2026-10-01T05:02:53Z,APqqm5bs,1790837100,"ATP - SINGLES: Tokyo (Japan), hard",hard,Shapovalov D.,Shimabukuro S.,shapovalov-denis,shimabukuro-sho,1221,Kalshi,1.37,3.57,1.23,4.76
+2026-10-01,2026-10-01T05:02:53Z,8MQWcMCa,1790838000,"ATP - SINGLES: Tokyo (Japan), hard",hard,Alcaraz C.,Michelsen A.,alcaraz-garfia-carlos,michelsen-alex,1221,Kalshi,1.18,5.88,1.18,5.88
+2026-10-01,2026-10-01T05:02:53Z,tzPvd0sC,1790842500,"ATP - SINGLES: Tokyo (Japan), hard",hard,Davidovich Fokina A.,Berrettini M.,davidovich-fokina-alejandro,berrettini-matteo,1221,Kalshi,1.69,2.33,1.69,2.27
+2026-10-01,2026-10-01T05:02:53Z,ALZvgM74,1790843400,"ATP - SINGLES: Tokyo (Japan), hard",hard,Vallejo D.,Jodar R.,vallejo-daniel,jodar-rafael,1221,Kalshi,5.0,1.22,1.52,1.16
+2026-10-01,2026-10-01T05:02:53Z,d6eTtSWN,1790823900,"WTA - SINGLES: Beijing (China), hard",hard,Starodubtseva Y.,Charaeva A.,starodubtsewa-yulia,charaeva-alina,1221,Kalshi,1.69,2.44,1.61,2.5
+2026-10-01,2026-10-01T05:02:53Z,SIqaRRmC,1790823900,"WTA - SINGLES: Beijing (China), hard",hard,Volynets K.,Montgomery R.,volynets-katie,montgomery-robin,1221,Kalshi,1.75,2.22,1.75,2.22
+2026-10-01,2026-10-01T05:02:53Z,QkqqzdWq,1790824200,"WTA - SINGLES: Beijing (China), hard",hard,Zheng Q.,Shi H.,zheng-qinwen,shi-han,1221,Kalshi,1.1,10.0,1.12,8.33
+2026-10-01,2026-10-01T05:02:53Z,nurqV9lm,1790829600,"WTA - SINGLES: Beijing (China), hard",hard,Kartal S.,Lazaro Garcia A.,kartal-sonay,lazaro-garcia-andrea,1221,Kalshi,1.3,4.17,1.25,4.35
+2026-10-01,2026-10-01T05:02:53Z,vm2wL5R1,1790832000,"WTA - SINGLES: Beijing (China), hard",hard,Badosa P.,Kasatkina D.,badosa-paula,kasatkina-daria,1221,Kalshi,1.47,2.94,1.41,3.13
+2026-10-01,2026-10-01T05:02:53Z,82j5nW2n,1790832300,"WTA - SINGLES: Beijing (China), hard",hard,Ito A.,Birrell K.,ito-aoi,birrell-kimberly,1221,Kalshi,4.35,1.3,4.17,1.28
+2026-10-01,2026-10-01T05:02:53Z,MqsbuzDG,1790835000,"WTA - SINGLES: Beijing (China), hard",hard,Linette M.,Siniakova K.,linette-magda,siniakova-katerina,1221,Kalshi,2.86,1.49,2.63,1.56
+2026-10-01,2026-10-01T05:02:53Z,hW3VMRdk,1790837400,"WTA - SINGLES: Beijing (China), hard",hard,Shao Y.,Zakharova A.,shao-yushan,zakharova-anastasia,1221,Kalshi,12.5,1.08,11.11,1.1
+2026-10-01,2026-10-01T05:02:53Z,fk7Ch4nB,1790839800,"WTA - SINGLES: Beijing (China), hard",hard,Bassols M.,Rakhimova K.,bassols-ribera-marina,rakhimova-kamilla,1221,Kalshi,3.7,1.35,3.57,1.33
+2026-10-01,2026-10-01T05:02:53Z,EJwjsdr4,1790840700,"WTA - SINGLES: Beijing (China), hard",hard,Tararudee L.,Osorio C.,tararudee-lanlana,osorio-serrano-maria-camila,1221,Kalshi,1.92,2.0,1.85,2.13
+2026-10-01,2026-10-01T05:02:53Z,My94fQHb,1790843100,"WTA - SINGLES: Beijing (China), hard",hard,Dart H.,Qu Y.,dart-harriet,qu-yihan,1221,Kalshi,1.06,14.29,1.09,11.11
+2026-10-01,2026-10-01T05:02:53Z,GSgDpAXb,1790845200,"WTA - SINGLES: Beijing (China), hard",hard,Parks A.,Zhu L.,parks-alycia,zhu-lin,1221,Kalshi,1.96,2.04,1.82,2.04
+2026-10-01,2026-10-01T05:02:53Z,lthLrl2B,1790846100,"WTA - SINGLES: Beijing (China), hard",hard,Gao X.,Udvardy P.,gao-xinyu,udvardy-panna,1221,Kalshi,2.5,1.59,2.56,1.59
+2026-10-01,2026-10-01T05:02:53Z,CW0by6fo,1790852400,"WTA - SINGLES: Beijing (China), hard",hard,Lys E.,Sun X.,lys-eva,sun-xinran,1221,Kalshi,1.45,3.13,1.45,3.23
